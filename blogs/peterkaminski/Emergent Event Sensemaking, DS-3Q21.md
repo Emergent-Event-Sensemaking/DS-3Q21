@@ -1,6 +1,6 @@
-# Emergent Event Sensemaking: DS-3Q21
+# Emergent Event Sensemaking, DS-3Q21
 
-Originally posted 2021-08-01 by [[Peter Kaminski]]
+Originally posted 2021-08-01 by [[Peter Kaminski]].
 
 Hey infovores and sensemakers, let's play a (serious) game.
 
