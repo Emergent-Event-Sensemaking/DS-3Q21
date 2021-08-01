@@ -26,14 +26,14 @@ The starter collaborative firehose tools I have:
 
 Two CSC Mattermost channels, one for EES in general, and a specific DS-3Q21 content channel.  (Mattermost is open source software that's much like Slack, and I run an instance, CSC, where a little over a hundred people from various groups are subscribed.)
 
-- https://chat.collectivesensecommons.org/agora/channels/ees-ds-3q21
-- https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking
+- [https://chat.collectivesensecommons.org/agora/channels/ees-ds-3q21](https://chat.collectivesensecommons.org/agora/channels/ees-ds-3q21)
+- [https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking](https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking)
 
 One Factr stream.  Social network for organizing and sharing knowledge. This one is new to me, but I've befriended one of the co-founders and the director of operations, and they're great folks.
 
-- https://factr.com/u/peterkaminski/delta-surge-3q2021
+- [https://factr.com/u/peterkaminski/delta-surge-3q2021](https://factr.com/u/peterkaminski/delta-surge-3q2021)
 
 One Massive Wiki.  My idea is that raw ore goes in either or both Mattermost and Factr, and the wiki helps start to organize the information, and meta-organize the collaboration.  We'll see what happens!
 
-- https://ees-ds-3q21.knowledgecommons.wiki/
+- [https://ees-ds-3q21.knowledgecommons.wiki/](https://ees-ds-3q21.knowledgecommons.wiki/)
 
