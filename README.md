@@ -8,3 +8,7 @@ Come chat with us in the [Emergent Event Sensemaking](https://chat.collectivesen
 
 To collaborate on this wiki, [ask Pete](mailto:kaminski@istori.com) to add you to the git repo, or fork the [DS-3Q21 repo](https://github.com/Emergent-Event-Sensemaking/DS-3Q21) and then issue pull requests.
 
+## Topics
+
+- [[COVID-19 Variants]]
+
