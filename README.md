@@ -2,7 +2,7 @@
 
 This wiki is part of an Emergent Event Sensemaking experiment.
 
-Click the "All Pages" button above to see additional pages.
+**Click the "All Pages" button above to see additional pages.**
 
 Read an introduction in this blog post: [[blogs/peterkaminski/Emergent Event Sensemaking, DS-3Q21|Emergent Event Sensemaking: DS-3Q21]].
 
