@@ -15,7 +15,7 @@ This is an evolving draft description of a system to manage EES intake.
 - Exhibit
 - Intake Stream
 - Evidence Database
-- Short Narrative
+- Short Narrative - simple sentence that helps classify this exhibit; not meant as a complete statement of the narrative
 
 ## User Interfaces
 
