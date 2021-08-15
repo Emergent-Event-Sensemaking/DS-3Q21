@@ -1,6 +1,6 @@
 # EES Intake System
 
-This is an evolving draft description of a system to manage EES intake.
+This is an evolving draft description of a system to manage EES intake.  This might be the component we've been calling "the firehose" or "Stage A", with more emphasis on the Evidence Database
 
 ## Roles
 
